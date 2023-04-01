@@ -16,5 +16,7 @@ tsujOlá me chamo welliton mas sinta-se avontade para me chamar de Kira se prefe
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
   <img align="center" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+  
+  ##
 
 ![Snake animation](https://github.com/Kira-Sann/KiraSann/blob/output/github-contribution-grid-snake.svg)
