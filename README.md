@@ -19,4 +19,3 @@ tsujOlá me chamo welliton mas sinta-se avontade para me chamar de Kira se prefe
   
   ##
 
-![Snake animation](https://github.com/Kira-Sann/KiraSann/blob/output/github-contribution-grid-snake.svg)
