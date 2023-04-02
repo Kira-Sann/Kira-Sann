@@ -1,4 +1,4 @@
-tsujOlá me chamo welliton mas sinta-se avontade para me chamar de Kira se preferir
+- Olá me chamo welliton mas sinta-se avontade para me chamar de Kira se preferir
 ##
 - 🔭 Buscando careira como desenvolvedor Front-end
 - 🌱 Estudando JavaScript
